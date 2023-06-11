@@ -18,11 +18,11 @@ In this project, we leverage the power of LSTM networks to predict stock prices.
 1. Clone the repository: https://github.com/ManaskrJha/TATA-STEEL-SHARE.git
 
 2. Install the required dependencies:
-pandas
-matplotlib
-numpy
-sklearn
-tensorflow
+pandas,
+matplotlib,
+numpy,
+sklearn,
+tensorflow.
 
 
 ## Usage
