@@ -15,7 +15,7 @@ In the specific case of the code provided, I utilized an LSTM model to predict s
 - [Contributing](#contributing)
 
 
-## Introduction
+## Introduction 
 In this project, we leverage the power of LSTM networks to predict stock prices. We use historical stock price data to train the model and evaluate its performance. The model is implemented using TensorFlow and Keras libraries.
 
 ## Installation
